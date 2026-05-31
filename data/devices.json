@@ -1,0 +1,12 @@
+[
+    {
+        "id": "L001",
+        "name": "Kitchen Light",
+        "room": "Kitchen"
+    },
+    {
+        "id": "T001",
+        "name": "Main Thermostat",
+        "room": "Living Room"
+    }
+]
